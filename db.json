@@ -14,7 +14,7 @@
       "userId": "UUID"
     }
   ],
-  "transactions": [
+  "transaction-requests": [
     {
       "id": 1,
       "amount": 200.0

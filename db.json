@@ -13,5 +13,11 @@
       "username": "typicode",
       "userId": "UUID"
     }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 200.0,
+    }
   ]
 }

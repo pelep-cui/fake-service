@@ -17,7 +17,7 @@
   "transactions": [
     {
       "id": 1,
-      "amount": 200.0,
+      "amount": 200.0
     }
   ]
 }
